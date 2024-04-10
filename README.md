@@ -19,7 +19,7 @@ You will find here some of the projects I worked on (group or solo). I’m explo
 
 ## 💻 I’m looking for an apprenticeship 💻
 
-I'm looking for an apprenticeship starting between march and september 2024. I'm open to opportunities as both a full-stack developer and a front-end developer.
+I'm looking for an apprenticeship starting between may and september 2024. I'm open to opportunities as both a full-stack developer and a front-end developer.
 
 ## 🛠️ Things I work with 🛠️
 
