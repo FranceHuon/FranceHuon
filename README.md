@@ -13,7 +13,7 @@ You will find here some of the projects I worked on (group or solo). I’m explo
 * I'm currently undergoing a career change
 * I work part-time on weekends at my favorite coffee shop just because I love the place and the team.
 * I am conscientious, positive, attentive, and have team spirit.
-* I'm living in Nantes, France.
+* I live in Nantes, France.
 * I'm very interested in front-end development and design. My long-term goal is to specialize in this field as I'm particularly interested in crafting responsible, inclusive, and accessible user interfaces.
 * In my free time, I enjoy going to the movies, embroidering t-shirts for my friends, and exercising.
 
